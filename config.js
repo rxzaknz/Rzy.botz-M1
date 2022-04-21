@@ -1,9 +1,9 @@
 // Thanks For Allah
-// Rzy.bot
+// HanaKastina.bot
 
 
 let fs = require('fs')
-global.owner = ['6285785694474', '6285785694474','6285828764046','6285828764046','6285828764046'] // Letakan nomor kamu disini
+global.owner = ['6281912564780', '6281912564780','6281229848865','6281229848865','6281912564780'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -40,17 +40,17 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Rzy-bot'
-global.author = 'Rzy-bot'
+global.packname = 'HanaKastina-bot'
+global.author = 'HanaKastina-bot'
 
-global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
+global.wait = '「 ⏱️ 」Sabar omw donglot'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©Rzy-botz' //change the watermark 
-global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
+global.watermark = '©HanaKastina-bot' //change the watermark 
+global.image = 'https://telegra.ph/file/154fc57aab4c179bce568.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/aad4c3afe7ba459ce1521.jpg'
 
-global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 1000 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
